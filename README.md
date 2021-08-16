@@ -1,5 +1,6 @@
 # hello-world
 1. Make your project folder look like this: (d: directory, f: file)
+```javascript
 d: backend
 d: frontend
 d: etc
@@ -12,3 +13,4 @@ d: etc
         d: backend
             f: Dockerfile
 f: docker-compose.yml
+```
